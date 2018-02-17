@@ -3,6 +3,10 @@
   "version": "0.1.1",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hackdie/react-native-likable-view"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
