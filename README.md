@@ -18,11 +18,11 @@ import LikeableView from 'react-native-likable-view';
 
 
 doubleTap = () => {
-  console.log('doubleTap)
+  console.log('doubleTap')
 }
 
 singleTap = () => {
-  console.log('singleTap)
+  console.log('singleTap')
 }
 
 render = () => {
