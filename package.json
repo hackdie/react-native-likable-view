@@ -1,0 +1,17 @@
+{
+  "name": "doubletaplikeableview",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Diego R Galindo",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.42"
+  }
+}
