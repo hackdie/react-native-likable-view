@@ -2,7 +2,7 @@ import React, { PureComponent } from 'react'
 import { View, Text, Image, Animated, StyleSheet } from 'react-native'
 
 import PropTypes from "prop-types";
-import DoubleClick from './DoubleTap';
+import DoubleClick from './doubleClicker';
 const imgBackground = require('./hearts.png')
 
 const styles = StyleSheet.create({
